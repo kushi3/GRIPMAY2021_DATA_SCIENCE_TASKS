@@ -1,8 +1,10 @@
-#Task1	- Prediction using Supervised Machine Learning
+**GRIP Data Science Tasks - The Sparks Foundation**
 
-Problem - What will be predicted score if a student studies for 9.25 hrs/ day?
+**#Task1**	- Prediction using Supervised Machine Learning
 
-Solution- Using the dataset provided, train the linear regression machine learning algorithm to predict score when hours is provided 
+**Problem -** What will be predicted score if a student studies for 9.25 hrs/ day?
+
+**Solution-** Using the dataset provided, train the linear regression machine learning algorithm to predict score when hours is provided 
 
 Use Supervised Learning Algorithm 
 
@@ -13,11 +15,11 @@ Train the algorithm with given dataset
 Test the algorithm and Predict the score if hours is provided
 
 
-OUTPUT
+**OUTPUT**
 
 The predicted score if a student studies for 9.25 hrs/ day is 93.69173249.
 
-Outcomes from #Task1
+**Outcomes from #Task1**
 
 	-> Learnt about Supervised Machine Learning Algorithms
 	-> Learnt Linear Regression Algorithm
