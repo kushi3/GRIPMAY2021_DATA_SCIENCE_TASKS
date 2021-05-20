@@ -1,12 +1,12 @@
-GRIP Data Science Tasks - The Sparks Foundation
+**GRIP Data Science Tasks - The Sparks Foundation**      ![image](https://user-images.githubusercontent.com/60148115/118979783-b0742280-b92d-11eb-8659-c8782e2f1aac.png)
 
-#Task5	- Exploratory Data Analysis - Sports(Indian Premier League)
+**#Task5**	- Exploratory Data Analysis - Sports(Indian Premier League)
 
-Problem - As a sports analysts, find out the most successful teams, players and factors
-	  contributing win or loss of a team. Suggest teams or players a company should endorse for its products.
+**Problem** 	- As a sports analysts, find out the most successful teams, players and factors
+	  	  contributing win or loss of a team. Suggest teams or players a company should endorse for its products.
 
-Solution- With the Sports(IPL) dataset provided,Create a story-telling dashboard 
-	  and record the analysis made in each visualizations using tableau
+**Solution**	- With the Sports(IPL) dataset provided,Create a story-telling dashboard 
+	  	  and record the analysis made in each visualizations using tableau
 
 Download Sports Dataset(Indian Premier League)  (given)
 
@@ -40,11 +40,10 @@ Build a Dashboard with Season as filter and combine the sheets
 
 Create a story-telling dashboard and record the analysis made in each visualizations 
 
-OUTPUT
+**OUTPUT**
 
-
-As a sports analysts, find out the most successful teams, players and factors
-contributing win or loss of a team. Suggest teams or players a company should endorse for its products.
+**As a sports analysts, find out the most successful teams, players and factors
+contributing win or loss of a team. Suggest teams or players a company should endorse for its products.**
 
 Most of the Winning Teams are Chennai Super Kings and Mumbai Indians
 
@@ -79,7 +78,7 @@ Maximum number of dismissal kind fall under the category caught
 Best Playing teams are Chennai Super Kings and Mumbai Indians
 
 
-Outcomes from #Task4
+**Outcomes from #Task4**
 
 	->Learnt about Tableau Desktop 
 	->Learnt how to plot visualizations using built-in features available in tableau desktop
