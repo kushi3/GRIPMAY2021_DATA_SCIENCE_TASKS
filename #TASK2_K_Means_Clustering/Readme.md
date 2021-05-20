@@ -1,4 +1,5 @@
-**GRIP Data Science Tasks - The Sparks Foundation**
+**GRIP Data Science Tasks - The Sparks Foundation**    ![image](https://user-images.githubusercontent.com/60148115/118950864-6e3be880-b90f-11eb-82b3-025e87c7e2c5.png)
+
 
 
 **#Task2**    - Prediction using Unsupervised Machine Learning
