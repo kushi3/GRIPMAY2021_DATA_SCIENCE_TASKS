@@ -1,10 +1,10 @@
-**GRIP Data Science Tasks - The Sparks Foundation**
+**GRIP Data Science Tasks - The Sparks Foundation**   ![image](https://user-images.githubusercontent.com/60148115/118950930-81e74f00-b90f-11eb-9be8-aafbb41c5b60.png)
 
-**#Task3**	  - Exploratory Data Analysis - Retail SampleSuperStore
+**#Task3**	- Exploratory Data Analysis - Retail SampleSuperStore
 
-**Problem**   - As a business manager, try to find out the weak areas where you can work to make more profit.What all business problems you can derive by exploring the data?
+**Problem**   	- As a business manager, try to find out the weak areas where you can work to make more profit.What all business problems you can derive by exploring the data?
 
-**Solution**  - With the SampleSuperstore dataset provided,Create a story-telling dashboard and record the analysis made in each visualizations using tableau
+**Solution**  	- With the SampleSuperstore dataset provided,Create a story-telling dashboard and record the analysis made in each visualizations using tableau
 
 Download SampleSuperStore Dataset(United States) given dataset
 
@@ -27,7 +27,7 @@ Create a story-telling dashboard and record the analysis made in each visualizat
 
 **OUTPUT**
   
-  **Weak Areas where they can work to increase their profit**
+**Weak Areas where they can work to increase their profit**
 
 Arizona State, Mesa,Peoria, Phoenix, Scottsdale and Yuma 
 
@@ -62,6 +62,10 @@ Standard Class has a maximum profit in all three segments
 New York State yields maximum profit from Technology Category
 
 
+**Dashboard Link**	-
+
+
+**Story Link**		-
 
 **Outcomes from #Task3**
 
