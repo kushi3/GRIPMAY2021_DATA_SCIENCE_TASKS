@@ -52,6 +52,8 @@ Most of the terrorism targettypes fall under Private Citizens & Property targett
 
 Most of the terrorism weapontypes fall under Explosives weapontype
 
+**Dataset Link**		- https://bit.ly/3kXTdox
+
 **Tableau Profile Link** 	- https://public.tableau.com/profile/sushanth.arunachalam#!/
 
 **Dashboard Link**		- https://public.tableau.com/profile/sushanth.arunachalam#!/vizhome/CountryWiseTerrorismAttacksDistributionDashboard/CountryWiseTerrorismAttacksDistributionDashboard?publish=yes
