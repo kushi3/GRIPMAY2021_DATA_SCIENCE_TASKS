@@ -33,9 +33,11 @@ Uzbekistan ranks highest in Cardiovascular death rate
 
 Quatar ranks highest in GDP per capita and Democratic Republic of Congo ranks highest in extreme poverty 
 
+**Dataset Link** 		- https://github.com/owid/covid-19-data/tree/master/public/data/
+
 **Tableau Profile Link** 	- https://public.tableau.com/profile/sushanth.arunachalam#!/
 
-**Dashboard Link**		    - https://public.tableau.com/profile/sushanth.arunachalam#!/vizhome/CountrywiseDeathsCasesandvaccinationDetailsDashboard/CountrywiseDeathsCasesandvaccinationDetailsDashboard?publish=yes
+**Dashboard Link**		- https://public.tableau.com/profile/sushanth.arunachalam#!/vizhome/CountrywiseDeathsCasesandvaccinationDetailsDashboard/CountrywiseDeathsCasesandvaccinationDetailsDashboard?publish=yes
 
 **Story Link**		        - https://public.tableau.com/profile/sushanth.arunachalam#!/vizhome/Covid19Analysis_16216209681100/Covid19Analysis?publish=yes
 
