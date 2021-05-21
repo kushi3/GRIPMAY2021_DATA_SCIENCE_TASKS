@@ -62,11 +62,11 @@ Standard Class has a maximum profit in all three segments
 New York State yields maximum profit from Technology Category
 
 
-**Tableau Profile Link **	- https://public.tableau.com/profile/sushanth.arunachalam#!/
+**Tableau Profile Link**	- https://public.tableau.com/profile/sushanth.arunachalam#!/
 
-**Dashboard Link	**	-https://public.tableau.com/profile/sushanth.arunachalam#!/vizhome/sample_superstore_Analysis/UnitedStatesRetailSampleSuperStoreAnalysisDashboard?publish=yes
+**Dashboard Link**		-https://public.tableau.com/profile/sushanth.arunachalam#!/vizhome/sample_superstore_Analysis/UnitedStatesRetailSampleSuperStoreAnalysisDashboard?publish=yes
 
-**Story Link **			-https://public.tableau.com/profile/sushanth.arunachalam#!/vizhome/StudyofRetailSampleSuperStoreDataAnalysisinUnitedStates/StudyofRetailSampleSuperStoreDataAnalysisinUnitedStates?publish=yes
+**Story Link**			-https://public.tableau.com/profile/sushanth.arunachalam#!/vizhome/StudyofRetailSampleSuperStoreDataAnalysisinUnitedStates/StudyofRetailSampleSuperStoreDataAnalysisinUnitedStates?publish=yes
 
 
 **Outcomes from #Task3**
